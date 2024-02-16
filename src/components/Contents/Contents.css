@@ -1,0 +1,45 @@
+.maincontainer{
+    background-color: black;
+    height: 100%;
+    color: white;
+    padding: 1% 4% 1% 4%;
+    font-family: "Comme";
+}
+.headicon{
+    padding: 10px;
+    cursor: pointer;
+}
+.allproduct{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    overflow: scroll;
+}
+.allproduct::-webkit-scrollbar {
+    width: 0 !important;
+}
+
+.datacont{
+    display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: row;
+}
+.product{
+    text-align: center;
+    width: 280px;
+    height: 330px;
+    background-color:#141414;
+    margin-bottom: 50px;
+    padding: 10px;
+    border-bottom-left-radius: 17.08px;
+    border-bottom-right-radius: 17.08px;
+    /* flex-wrap: wrap; */
+}
+.imagestyle{
+    height: 250px;
+    width: 280px;
+    border-top-right-radius: 6.59px;
+    border-top-left-radius: 6.59px;
+}
