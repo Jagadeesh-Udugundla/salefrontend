@@ -9,6 +9,13 @@ https://salebackend.onrender.com/getdata
 to get the data from the API
 
 
+![image](https://github.com/Jagadeesh-Udugundla/salefrontend/assets/97141186/69129488-f574-4b10-b507-953ca1c262f1)
+
+
+![image](https://github.com/Jagadeesh-Udugundla/salefrontend/assets/97141186/897edc02-d527-4839-847a-943b5c3e5748)
+
+
+
 
 # Getting Started with Create React App
 
