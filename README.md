@@ -1,3 +1,15 @@
+I developed this site by using Frontend ReactJS with backend code 
+https://github.com/Jagadeesh-Udugundla/salesbackend here is my backend code using NodeJs and MongoDB.
+Using this backend code I developed API  https://salebackend.onrender.com/
+
+The End point of the API is 
+https://salebackend.onrender.com/postdata 
+to post the products and 
+https://salebackend.onrender.com/getdata 
+to get the data from the API
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
