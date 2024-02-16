@@ -15,7 +15,7 @@ const Contents = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('http://localhost:5000/getdata');
+        const response = await fetch('https://salebackend.onrender.com/getdata');
         const data = await response.json();
         setProducts(data);
         setIsLoading(false);
