@@ -136,8 +136,9 @@ const Contents = () => {
         {!isLoading &&(
         <div>
         {isLoading && (
-        <div className="loading-container">
+        <div className="loading-container" style={{height:"100vh",backgroundColor:"#141414"}}>
           <CircularProgress color="warning"/>
+          <h1>Please Wait</h1>
         </div>
       )}
       <div className='datacont'>

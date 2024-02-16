@@ -29,7 +29,7 @@
 .product{
     text-align: center;
     width: 280px;
-    height: 330px;
+    height: 500px;
     background-color:#141414;
     margin-bottom: 50px;
     padding: 10px;
@@ -38,7 +38,7 @@
     /* flex-wrap: wrap; */
 }
 .imagestyle{
-    height: 250px;
+    height: 400px;
     width: 280px;
     border-top-right-radius: 6.59px;
     border-top-left-radius: 6.59px;
