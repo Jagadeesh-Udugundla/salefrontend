@@ -127,6 +127,11 @@ const Contents = () => {
             <div>
                 <h3>Bags <i className="bi bi-dot"></i> Backpacks</h3>
             </div>
+            {isLoading && (
+        <div className="loading-container" >
+          <CircularProgress color="warning"/>
+        </div>
+      )}
             <div style={{display:"flex"}}>
                 {/* <h3>13 Products</h3> */}
                 13 Products
